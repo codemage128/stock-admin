@@ -343,7 +343,7 @@
                         <li class="profile list-inline-item">
                             <a href="#" data-toggle="dropdown" class="toggle">
                                 <img src="data/profile/profile-university.png" alt="user-image" class="rounded-circle img-inline">
-                                <span>Jamie Estrin <i class="fa fa-angle-down"></i></span>
+                                <span>Kim Sonsky & Damien Tuffereau<i class="fa fa-angle-down"></i></span>
                             </a>
                             <ul class="dropdown-menu profile animated fadeIn">
                                 <li class="dropdown-item">
@@ -402,13 +402,13 @@
                         <div class="profile-details col-lg-8 col-md-8 col-8">
 
                             <h3>
-                                <a href="ui-profile.php">Jamie Estrin</a>
+                                <a href="ui-profile.php">Kim Sonsky & Damien Tuffereau</a>
 
                                 <!-- Available statuses: online, idle, busy, away and offline -->
                                 <span class="profile-status online"></span>
                             </h3>
 
-                            <p class="profile-title">Owner, Stock Champs Inc.</p>
+                            <p class="profile-title">Owners, Starstruck Date LLC</p>
 
                         </div>
 

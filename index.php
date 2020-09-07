@@ -3,9 +3,10 @@
 <head>
     <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
     <meta charset="utf-8"/>
-    <title>Stock Champs Admin Panel</title>
+    <title>Starstruck Date Admin Panel</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <meta content="" name="description"/>
+    <meta content="Starstruck Date Admin Panel" name="description"/>
+    <meta title="Starstruck Date Admin Panel" name="title"/>
     <meta content="" name="author"/>
 
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon"/> <!-- Favicon -->
@@ -40,7 +41,6 @@
 </head>
 <!-- END HEAD -->
 <!-- BEGIN BODY -->
-
 
 <body class=" ">
 
@@ -428,12 +428,12 @@
                 </div>
                 <div class="profile-details col-lg-8 col-md-8 col-8">
                     <h3>
-                        <a href="#">Jamie Estrin</a>
+                        <a href="#">Kim Sonsky & Damien Tuffereau</a>
 
                         <!-- Available statuses: online, idle, busy, away and offline -->
                         <span class="profile-status online"></span>
                     </h3>
-                    <p class="profile-title">Owner, Stock Champs Inc.</p>
+                    <p class="profile-title">Owners, Starstruck Date LLC</p>
                 </div>
             </div>
             <!-- USER INFO - END -->
@@ -514,7 +514,7 @@
             <div class='col-xl-12 col-lg-12 col-md-12 col-12'>
                 <div class="page-title">
                     <div class="float-left">
-                        <h1 class="title">Stock Champs App</h1>
+                        <h1 class="title">Starstruck Date </h1>
                     </div>
                 </div>
             </div>
@@ -561,7 +561,6 @@
 <script src="assets/plugins/sparkline-chart/jquery.sparkline.min.js" type="text/javascript"></script>
 <script src="assets/js/chart-sparkline.js" type="text/javascript"></script>
 <!-- Sidebar Graph - END -->
-
 
 <div class="modal" id="section-settings" tabindex="-1" role="dialog" aria-labelledby="ultraModal-Label"
      aria-hidden="true">
